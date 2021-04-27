@@ -173,7 +173,7 @@ body {
 }
 
 .fa-bootstrap {
-    color: #563d7c;
+    color:var(--color-bs);
 }
 
 /*experience*/
