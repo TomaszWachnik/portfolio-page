@@ -176,6 +176,10 @@ body {
     color: var(--color-bs);
 }
 
+.fa-php {
+    color: var(--color-php);
+}
+
 /*experience*/
 
 /*passion*/
