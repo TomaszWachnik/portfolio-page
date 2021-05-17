@@ -29,10 +29,6 @@ p {
 	font-size: 2rem;
 }
 
-strong {
-	font-size: 2.8rem;
-}
-
 h1 {
 	font-size: 4rem;
 }
@@ -59,6 +55,7 @@ h3 {
 	--color-js: #f7df1e;
 	--color-bs: #563d7c;
 	--color-php: #787CB5;
+	--color-strong: rgb(6, 190, 182);
 }
 
 /*background color*/
@@ -80,4 +77,7 @@ h3 {
 }
 .txt-dark {
 	color: var(--color-dark);
+}
+.text-strong {
+	color: var(--color-strong);
 }
