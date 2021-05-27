@@ -46,7 +46,7 @@ h3 {
 	--color-light: #f4f4f4;
     --color-dark: #252529;
 	--color-nav: rgba(0, 0, 0, .5);
-	--colo-nav-hover: #959da5;
+	--color-nav-hover: #959da5;
 	--color-github-hover: #6a737d;
 	--color-linkedin-hover: #0072b1;
 	--color-gradient: linear-gradient(to right, rgb(10, 109, 104), rgb(12, 54, 109));
@@ -55,6 +55,7 @@ h3 {
 	--color-js: #f7df1e;
 	--color-bs: #563d7c;
 	--color-php: #787CB5;
+	--color-react: #61DBFB;
 	--color-strong: rgb(6, 190, 182);
 }
 
