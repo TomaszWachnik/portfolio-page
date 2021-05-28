@@ -41,6 +41,10 @@ h3 {
 	font-size: 2.5rem;
 }
 
+strong {
+	font-size: 3rem;
+}
+
 /*utilities*/
 :root {
 	--color-light: #f4f4f4;
@@ -56,7 +60,7 @@ h3 {
 	--color-bs: #563d7c;
 	--color-php: #787CB5;
 	--color-react: #61DBFB;
-	--color-strong: rgb(6, 190, 182);
+	/* --color-strong: rgb(6, 190, 182); */
 }
 
 /*background color*/
@@ -79,6 +83,6 @@ h3 {
 .txt-dark {
 	color: var(--color-dark);
 }
-.text-strong {
+/* .text-strong {
 	color: var(--color-strong);
-}
+} */
